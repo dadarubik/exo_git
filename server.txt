@@ -1,3 +1,4 @@
 1-Création de la base
 2-Ajout des tables
 3-Construction de la requête alimentant la liste en fonction des critères saisis
+4-Construction de la requête pour récupérer l'enregistrement complet de l'élément sélectionné dans la liste
