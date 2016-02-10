@@ -1,3 +1,4 @@
 1-Créer le template liste-maitre-détail
 2-Définition du critère
 3-Construction de la liste
+4-Construction du détail
